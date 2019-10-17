@@ -27,7 +27,7 @@ spec:
         type: image
         params:
         - name: url
-          value: image-registry.openshift-image-registry.svc:5000/tekton-demo/tf-mnist-build:latest
+          value: image-registry.openshift-image-registry.svc:5000/aditi-tekton-demo/tf-mnist-build:latest
 
 
          
